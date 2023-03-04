@@ -13,7 +13,6 @@ Click on the logout button to logout of the application.
 This app does not have the option to modify the meetings event though the buttons are present ( future integration).
 Thank you.
 
-I have not included the node_modules package in the client folder, please install them by running `npm install` in the client directory, all the dependencies are mentioned in the package.json file.
+Please install all dependencies by running `npm install` in the root directory, all the dependencies are mentioned in the package.json file.
 
-front end deployment -..../client npm start
-backend deployment -..../server npm start
+To start the server run `npm start`
