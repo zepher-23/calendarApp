@@ -4,6 +4,7 @@ This app can add meetings delete meetings. You can add time, date, day, duration
 For the front end I have used react, MDBootstrap, Primereact, Primeflex. Backend was written using ExpressJS
 
 This app is accessed through password verification, credentials are mentioned below
+
 EMail - `admin@example.com`
 Password - `password`
 
